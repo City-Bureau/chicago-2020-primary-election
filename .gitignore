@@ -1,0 +1,8 @@
+.venv
+.vscode
+input/*
+!input/.keep
+output/*
+!output/.keep
+dist/*
+!dist/.keep
